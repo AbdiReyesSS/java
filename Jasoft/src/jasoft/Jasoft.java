@@ -4,10 +4,6 @@
  */
 package jasoft;
 
-/**
- *
- * @author Usuario
- */
 public class Jasoft {
 
     /**
